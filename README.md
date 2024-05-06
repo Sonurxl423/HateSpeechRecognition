@@ -28,10 +28,6 @@ I have provided the Dataset, in a CSV File Format, on which my Decision Tree Cla
 
 You can simply run the Jupyter notebook or run the program in Visual Studio Code and enter a Statement to check whether it is a Hate Speech or not!
 
-## Author
-
-- [@Dhruv Athaide](https://github.com/DhruvAthaide)
-
 
 ## Languages & Tools Used:
 <p align="left"> 
